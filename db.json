@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "adilhan",
+      "password": "1234",
+      "role": "admin",
+      "shop": "",
+      "skiResort": ""
+    },
+    {
+      "id": "5212",
+      "name": "admin",
+      "password": "123",
+      "role": "user",
+      "shop": "",
+      "skiResort": ""
+    },
+    {
+      "id": "feac",
+      "name": "admin",
+      "password": "123321",
+      "role": "user",
+      "shop": "",
+      "skiResort": ""
+    },
+    {
+      "id": "cd70",
+      "username": "admin dsad",
+      "email": "adilhanimerov82@gmail.com",
+      "password": "123213",
+      "businessType": "магазин",
+      "address": "tunguch"
+    }
+  ],
+  "skiResort": [
+    {
+      "name": "Zil",
+      "shops": [
+        {}
+      ],
+      "id": "111"
+    },
+    {
+      "name": "Chunkur-Chack",
+      "shops": [
+        {}
+      ],
+      "id": "222"
+    }
+  ],
+  "shops": [
+    {
+      "id": "",
+      "name": "Rusik Molodec",
+      "address": "вфывфыв"
+    }
+  ]
+}
